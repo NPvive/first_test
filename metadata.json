@@ -1,0 +1,6 @@
+{
+  "name": "경매이지 - 부동산 경매 초보 상담소",
+  "description": "부동산 경매 초심자를 위한 권리분석, 모의 입찰 및 AI 맞춤 법률/경매 상담 서비스",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
